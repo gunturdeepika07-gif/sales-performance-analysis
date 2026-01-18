@@ -57,7 +57,4 @@ FROM superstore
 GROUP BY product_name
 ORDER BY total_profit ASC
 LIMIT 10;
-
-
-
 -- Added SQL KPI analysis queries
